@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @furkanprltn
+- 👋 Hi, I’m Furkan Parlatan
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Cyber Security and Networking
 - 💞️ I’m looking to collaborate on game development
